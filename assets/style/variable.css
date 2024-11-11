@@ -1,0 +1,16 @@
+:root {
+    --orange-primary: rgb(245 109 65);
+    --indigo-primary: #0D101C;
+    --font60-primary: 60px;
+    --weight600-primary: 600;
+    --navlink-font-size: 17px;
+    --navlink-font-weight: 400;
+    --navlink-margin: 0 8px;
+    --orange-btn-hover: rgb(197, 77, 42);
+    --purple-grad:url('../img/bg-purple.png');
+    --blue-grad:url('../img/bg-blue.png');
+    --pink-grad:url('../img/bg-pink.png');
+    --green-grad:url('../img/bg-green.png');
+    --card-statusbar:rgba(255, 255, 255, 0.2);
+
+}
